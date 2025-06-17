@@ -23,7 +23,7 @@
 <img align="left" alt="Lapini | React" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" />
 <img align="left" alt="Lapini | Javascript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png" />
 <img align="left" alt="Lapini | Java" width="26px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"/>
-<img align="left" alt="Lapini | C#" width="26px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"/>
+<img align="left" alt="Lapini | C#" width="26px" src="[https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png](https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg)"/>
 <img align="left" alt="Lapini | Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"/>
 <img align="left" alt="Lapini | MongoDB" width="26px" src="https://img.icons8.com/color/480/mongodb.png"/>
 <img align="left" alt="Lapini | SQL" width="26px" src="https://lineadecodigo.com/wp-content/uploads/2014/04/sql-e1633736325758.png"/>
