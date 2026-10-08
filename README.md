@@ -16,7 +16,7 @@
 - 💻 I'm currently working as a **Software Developer at Arteco**, consulting for **Meliá Hotels International**.
 - 🏗️ My core focus is on feature development and refactoring enterprise-level applications using **Next.js, TypeScript, and TanStack**.
 - 📐 Passionate about clean code and scalable design: I actively apply **SOLID principles, Screaming Architecture, and Hexagonal Architecture** in my daily stack.
-- 🕹️ I’m independently developing a **PVP Spionage Game in Unreal Engine 5**, handling everything from 3D Modeling and Game Design.
+- 🕹️ I’m independently developing a **PVP Spionage Game in Unreal Engine 5**, handling everything from 3D Modeling, coding and Game Design.
 - 🎓 Graduated in **Cross-platform App Development** at [EDIB](https://www.grupofleming.com/web/ciclos/estudios/30/cfgs_desarrollo_de_aplicaciones_multiplataforma.html).
 - 🎨 **Other skills:** Graphic Design, Video/Photo editing, and 3D Modelling.
 
